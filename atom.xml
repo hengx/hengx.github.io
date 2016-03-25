@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>哼哼的胡言乱语</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hengtuanzi.com/"/>
+  <updated>2016-03-25T20:02:14.000Z</updated>
+  <id>http://hengtuanzi.com/</id>
+  
+  <author>
+    <name>哼团子</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Recent</title>
+    <link href="http://hengtuanzi.com/2016/03/25/Recent/"/>
+    <id>http://hengtuanzi.com/2016/03/25/Recent/</id>
+    <published>2016-03-25T19:20:53.000Z</published>
+    <updated>2016-03-25T20:02:14.000Z</updated>
+    
+    <content type="html">&lt;p&gt;最近一直在忙着找实习，可谓是鸡飞狗跳。由于开始的太晚了，所以很多公司已经没坑了。&lt;/p&gt;
+&lt;p&gt;的确，大部分公司夏天的实习，在前一年的秋天就已经开始了，到冬天可能已经面完许多candidate了，更别提我连最后的尾巴－1，2月都没抓住，3月才开始投简历的，呵呵。&lt;/p&gt;
+&lt;p&gt;真的要呵呵自己啊，现在只能海投，投了一堆大大小小的公司，也拜托了几个盆友帮忙refer。只能寄希望于还有些公司没招满人，以及fall的coop了。&lt;/p&gt;
+&lt;p&gt;这个过程的确是暴露出来自己的许多问题。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;没有提前准备。按理来说第一年进graduate program就应该准备实习，大家在14年秋天就在准备了，而我当时还在悠哉悠哉的，以“我还没有准备好为理由拖延”。当然的确那时候连java都写不好，刚学了一点functional prgramming，还经常在犹豫要不要走这条路。不过到最后发现，越是练习越是熟练，才越是enjoy啊。不练是永远做不好的。所以这是第一个大教训。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;是networking的问题。之前一直觉得我在西村呆了这么些年，connection有很多。但真的要开始找工作的时候，发现，咦，其实可以麻烦的人不多，平时没有注意积累人脉，随着性子来，到最后发现能说得上话的人不多。反而还耗尽了自己其他的一些精力－例如去劝架or做感情解惑者。作为盆友这些也都是应该的，不过可惜的是不论是短期还是长远的来看都和自己现在的objective相矛盾。以前很反感“功利”的人，现在也慢慢开始理解这些了，世界上好多事儿都不是非黑即白啊。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Learning, learning &amp;amp; learning，重要的事情说三遍。最主要的还是代码能力和花在这上面的时间不够，很多东西都研究不透彻，一知半解的。这也是自己的缺乏信心的源头。好在慢慢意识到这个问题了，也有针对性的开始弥补了，多给自己一点时间和耐心吧，扎实点，毕竟是决定好了这是要从事一生的职业呢。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;希望下次可以来update好消息。现在很迫切的希望去业界看一下，感受一下real work environment。当然如果没有合适的机会，也只能说明自己的水平还不够，就利用暑假好好弥补一下吧。学无止境，加油。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近一直在忙着找实习，可谓是鸡飞狗跳。由于开始的太晚了，所以很多公司已经没坑了。&lt;/p&gt;
+&lt;p&gt;的确，大部分公司夏天的实习，在前一年的秋天就已经开始了，到冬天可能已经面完许多candidate了，更别提我连最后的尾巴－1，2月都没抓住，3月才开始投简历的，呵呵。&lt;/p&gt;
+&lt;
+    
+    </summary>
+    
+      <category term="日志" scheme="http://hengtuanzi.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="Diary" scheme="http://hengtuanzi.com/tags/Diary/"/>
+    
+      <category term="Personal" scheme="http://hengtuanzi.com/tags/Personal/"/>
+    
+      <category term="hexo" scheme="http://hengtuanzi.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NewPost</title>
+    <link href="http://hengtuanzi.com/2016/03/18/ConfigProblems/"/>
+    <id>http://hengtuanzi.com/2016/03/18/ConfigProblems/</id>
+    <published>2016-03-19T04:02:01.000Z</published>
+    <updated>2016-03-25T20:16:54.000Z</updated>
+    
+    <content type="html">&lt;p&gt;config之路还挺麻烦的，因为我好像不小心创建了2个文件夹。。。然后还把自己搞混了。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;config之路还挺麻烦的，因为我好像不小心创建了2个文件夹。。。然后还把自己搞混了。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="configuration" scheme="http://hengtuanzi.com/tags/configuration/"/>
+    
+      <category term="hexo" scheme="http://hengtuanzi.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://hengtuanzi.com/2016/02/04/hello-world/"/>
+    <id>http://hengtuanzi.com/2016/02/04/hello-world/</id>
+    <published>2016-02-04T17:40:52.000Z</published>
+    <updated>2016-02-04T17:40:52.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;http://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;http://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;http://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;http://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;http://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;http://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;http://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;http://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;http://hexo.io
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
